@@ -1,4 +1,4 @@
-<div style="text-align:center">
+<div align:"center">
 <h2>Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"><h2>
 
 <!--
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafirh&theme=radical)
+</div>
