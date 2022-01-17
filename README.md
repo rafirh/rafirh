@@ -1,5 +1,5 @@
-<div align:"center">
-<h2>Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"><h2>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 <!--
 **rafirh/rafirh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
