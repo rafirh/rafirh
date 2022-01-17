@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| `material-palenight` ![material-palenight][material-palenight_repo] |
-[material-palenight]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafirh&theme=radical)
