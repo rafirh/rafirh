@@ -32,7 +32,7 @@ const rafi = {
 <div align="center"> 
    <img width="60%" width="100%" height="1" align="center" src="https://github.com/donPabloNow/donPabloNow/blob/main/assets/bar.gif" />
 </div>  
-  
+![](https://komarev.com/ghpvc/?username=rafirh&style=flat-square)
   
   
   
