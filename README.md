@@ -58,4 +58,10 @@ const rafi = {
   <a href="https://www.linkedin.com/in/muhammad-rafi-rahman-habibi-50672722b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-![](https://komarev.com/ghpvc/?username=rafirh&style=flat-square)
+<br><br>
+
+
+
+![profile](https://komarev.com/ghpvc/?username=rafirh&color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rafirh&color=blue)
+
