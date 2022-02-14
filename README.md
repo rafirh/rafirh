@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1>Hello Copyer !!!</h1>
 </div>  
-  <p align="center"><img align="center" title="Whats Poppin" alt="Whats Poppin" width="80%" src="./assets/whats-poppin-title.png" /><img width="60%" width="100%" height="1" align="center" src="https://github.com/donPabloNow/donPabloNow/blob/main/assets/bar.gif" /></p>
+  <img width="60%" width="100%" height="1" align="center" src="https://github.com/donPabloNow/donPabloNow/blob/main/assets/bar.gif" />
 <div align="center"> 
   <a href="https://github.com/rafirh">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafirh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,13 +14,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
-  ##
- 
 <div align="center"> 
   <a href="https://instagram.com/rqfir" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:rafirahman987@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/muhammad-rafi-rahman-habibi-50672722b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
- 
+  <a href="https://www.linkedin.com/in/muhammad-rafi-rahman-habibi-50672722b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
