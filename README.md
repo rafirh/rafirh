@@ -7,11 +7,11 @@
 ```javascript
 const rafi = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "PHP", "CSS", "Java"],
+    code: ["Javascript", "PHP", "CSS", "Java", "HTML"],
     askMeAbout: ["web dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express", "React"],
         },
         databases: ["MySql"]
     },
