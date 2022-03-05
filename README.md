@@ -15,7 +15,7 @@ const rafi = {
         },
         databases: ["MySql"]
     },
-    funFact: " "
+    funFact: ""
 };
 ```
 
