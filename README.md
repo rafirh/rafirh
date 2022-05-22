@@ -12,6 +12,7 @@ const rafi = {
     technologies: {
         backEnd: {
             js: ["Node", "Express", "React"],
+            php: ["Laravel"]
         },
         databases: ["MySql"]
     },
