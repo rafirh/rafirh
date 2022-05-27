@@ -12,11 +12,11 @@ const rafi = {
     technologies: {
         backEnd: {
             js: ["Node", "Express", "React"],
-            php: ["Laravel"]
         },
         databases: ["MySql"]
     },
-    funFact: "..."
+    funFact: "...",
+    recent-activity: ["learning laravel and adonis framework","working on problem solving challenges in hackerrank.com"]
 };
 ```
 
