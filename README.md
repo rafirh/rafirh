@@ -16,7 +16,7 @@ const rafi = {
         databases: ["MySql"]
     },
     funFact: "...",
-    recent-activity: ["learning laravel and adonis framework","working on problem solving challenges in hackerrank.com"]
+    recent-activity: [" learning laravel and adonis framework "," working on problem solving challenges in hackerrank.com "]
 };
 ```
 
