@@ -15,7 +15,7 @@ const rafi = {
         },
         databases: ["MySql"]
     },
-    funFact: "...",
+    funFact: " i like reading a article in quora and medium ",
     recent-activity: [" learning laravel and adonis framework "," working on problem solving challenges in hackerrank.com "]
 };
 ```
