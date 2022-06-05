@@ -1,5 +1,8 @@
 <div align="center">
-  <h1> 𝑯𝒆𝒍𝒍𝒐, 𝙸'𝚖 𝚁𝚊𝚏𝚒 ! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+  <h1> 𝑯𝒆𝒍𝒍𝒐, 𝙸'𝚖 𝚁𝚊𝚏𝚒 ! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /></h1>
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
