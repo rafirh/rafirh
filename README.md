@@ -10,7 +10,7 @@
 ```javascript
 const rafi = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "PHP", "CSS", "Java", "HTML"],
+    code: ["Javascript", "PHP", "CSS", "Java", "HTML", "sql"],
     askMeAbout: ["web dev"],
     technologies: {
         backEnd: {
