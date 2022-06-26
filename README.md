@@ -19,7 +19,7 @@ const rafi = {
         },
         databases: ["MySql"]
     },
-    funFact: "boyy",
+    funFact: "i hope..?",
     recent-activity: [" learning laravel framework "," working on problem solving challenges in hackerrank.com "]
 };
 ```
