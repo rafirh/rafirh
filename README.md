@@ -19,7 +19,7 @@ const rafi = {
         },
         databases: ["MySql"]
     },
-    funFact: "ok",
+    funFact: "i need ...",
     recent-activity: [" build the future "]
 };
 ```
