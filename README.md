@@ -1,8 +1,9 @@
 <div align="center">
   <h1> 𝑯𝒆𝒍𝒍𝒐, 𝙸'𝚖 𝚁𝚊𝚏𝚒 ! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h1>
+    alt="Waving hand animated gif"
+    height="45"
+    width="45" />
+  </h1>
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -42,7 +43,7 @@ const rafi = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafirh&theme=tokyonight_duo" alt="mystreak"/>
 </div>
  
- </br>
+</br>
  
 ![](https://activity-graph.herokuapp.com/graph?username=rafirh&theme=react-dark)  
   
