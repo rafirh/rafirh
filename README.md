@@ -20,7 +20,7 @@ const rafi = {
         databases: ["MySql"]
     },
     funFact: "i need ...",
-    recent-activity: ["  basic learn javascript "]
+    recent-activity: ["turu"]
 };
 ```
 
@@ -58,7 +58,7 @@ const rafi = {
   </br>
  
 <div align="center">
-  [![](https://activity-graph.herokuapp.com/graph?username=rafirh&theme=react-dark)](AkuraDiary)
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rafirh&theme=dracula)](https://github.com/rafirh/github-readme-activity-graph)
 </div>
 
 <div align="center"> 
