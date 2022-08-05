@@ -15,7 +15,6 @@ const rafi = {
     askMeAbout: ["web dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express", "React"],
             php: ["Laravel"]
         },
         databases: ["MySql", "PostgreSql"]
