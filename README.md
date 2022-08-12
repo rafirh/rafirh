@@ -18,10 +18,10 @@ const rafi = {
             js: ["Express"],
             php: ["Laravel"]
         },
-        databases: ["MySql", "PostgreSql"]
+        databases: ["MySql", "MongoDB"]
     },
     funFact: "ygta",
-    recent-activity: ["turu"]
+    recent-activity: ["learn more about NodeJS"]
 };
 ```
 
