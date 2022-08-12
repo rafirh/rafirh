@@ -18,6 +18,7 @@ const rafi = {
             js: ["Express"],
             php: ["Laravel"]
         },
+        viewEngine: ["EJS", "blade"],
         databases: ["MySql", "MongoDB"]
     },
     funFact: "ygta",
