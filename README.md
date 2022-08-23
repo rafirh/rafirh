@@ -11,7 +11,7 @@
 ```javascript
 const rafi = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "PHP", "PYTHON", "SQL", "Java", "CSS", "HTML"],
+    code: ["Javascript", "PHP", "PYTHON", "SQL", "Java", "CSS", "HTML", "GIT"],
     askMeAbout: ["web dev"],
     technologies: {
         backEnd: {
@@ -21,7 +21,7 @@ const rafi = {
         viewEngine: ["EJS", "blade"],
         databases: ["MySql", "MongoDB"]
     },
-    funFact: "ygta",
+    funFact: "asdasdasd",
     recent-activity: ["learn more about NodeJS"]
 };
 ```
