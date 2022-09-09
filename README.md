@@ -22,8 +22,8 @@ const rafi = {
         viewEngine: ["EJS", "blade"],
         databases: ["MySql", "MongoDB"]
     },
-    funFact: "asdasdasd",
-    recent-activity: ["asd"]
+    funFact: "asd",
+    recent-activity: ["learning css"]
 };
 ```
 
