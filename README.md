@@ -16,8 +16,8 @@ const rafi = {
     askMeAbout: ["web dev"],
     technologies: {
         backEnd: {
-            js: ["Express"],
-            php: ["Laravel"]
+            js: ["Express, Adonis"],
+            php: ["Laravel", "CodeIgniter"]
         },
         viewEngine: ["EJS", "blade"],
         databases: ["MySql", "MongoDB"]
