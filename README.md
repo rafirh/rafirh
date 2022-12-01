@@ -23,7 +23,7 @@ const rafi = {
         databases: ["MySql", "MongoDB"]
     },
     funFact: "asd",
-    recent-activity: ["learning mvc with PHP"]
+    recent-activity: ["learning about REST API"]
 };
 ```
 
