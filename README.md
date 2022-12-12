@@ -11,7 +11,7 @@
 ```javascript
 const rafi = {
     pronouns: "He" | "Him",
-    about: "beginner coder",
+    about: "backend dev",
     code: ["Javascript", "PHP", "PYTHON", "SQL", "Java", "CSS", "HTML", "GIT"],
     askMeAbout: ["web dev"],
     technologies: {
