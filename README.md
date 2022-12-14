@@ -22,7 +22,7 @@ const rafi = {
         viewEngine: ["EJS", "blade"],
         databases: ["MySql", "MongoDB"]
     },
-    funFact: "asd",
+    funFact: "okeh",
     recent-activity: ["learning go language"]
 };
 ```
