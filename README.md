@@ -20,7 +20,7 @@ const rafi = {
             php: ["Laravel", "CodeIgniter"]
         },
         viewEngine: ["EJS", "blade"],
-        databases: ["MySql", "MongoDB"]
+        databases: ["MySql", "MongoDB", "PostgreeSQL"]
     },
     funFact: "okeh",
     recent-activity: ["learning go language"]
