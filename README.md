@@ -23,7 +23,7 @@ const rafi = {
         databases: ["MySql", "MongoDB", "PostgreeSQL"]
     },
     funFact: "okeh",
-    recent-activity: ["learning go language"]
+    recent-activity: ["learning golang"]
 };
 ```
 
