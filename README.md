@@ -13,7 +13,7 @@ const rafi = {
     pronouns: "He" | "Him",
     about: "backend dev",
     code: ["Go", "Javascript", "PHP", "Python", "SQL", "Go"],
-    askMeAbout: ["web dev"],
+    askMeAbout: ["opoae"],
     technologies: {
         backEnd: {
             js: ["Express, Adonis"],
