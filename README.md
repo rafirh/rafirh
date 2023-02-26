@@ -20,10 +20,11 @@ const rafi = {
             php: ["Laravel", "CodeIgniter 4"]
         },
         viewEngine: ["EJS", "blade"],
-        databases: ["MySql", "MongoDB", "PostgreeSQL"]
+        databases: ["MySql", "MongoDB", "PostgreeSQL"],
+        cloud: ["AWS"]
     },
     funFact: "okeh",
-    recent-activity: ["learning golang"]
+    recent-activity: ["turu sih"]
 };
 ```
 
