@@ -13,7 +13,7 @@ const rafi = {
     pronouns: "He" | "Him",
     about: "backend dev",
     code: ["Go", "Javascript", "PHP", "Python", "SQL"],
-    askMeAbout: ["asd"],
+    askMeAbout: ["code"],
     technologies: {
         backEnd: {
             js: ["Express, Adonis"],
@@ -24,7 +24,7 @@ const rafi = {
         cloud: ["AWS"]
     },
     funFact: "okeh",
-    recent-activity: ["turu sih"]
+    recent-activity: ["turu"]
 };
 ```
 
