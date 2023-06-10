@@ -24,7 +24,7 @@ const rafi = {
         cloud: ["AWS"]
     },
     funFact: "okeh",
-    recent-activity: ["learn about go"]
+    recent-activity: ["learn about golang"]
 };
 ```
 
