@@ -24,7 +24,7 @@ const rafi = {
         databases: ["MySql", "MongoDB", "PostgreeSQL"],
         cloud: ["AWS"]
     },
-    funFact: "okeh",
+    funFact: "eee...",
     recent-activity: ["learn about golang"]
 };
 ```
