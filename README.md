@@ -19,7 +19,7 @@ const rafi = {
             js: ["Express, Adonis"],
             php: ["Laravel", "CodeIgniter 4"]
         },
-        devOps: ["Docker, Nginx, Linux"]
+        devOps: ["Docker, Nginx, Linux, Apache2"]
         viewEngine: ["EJS", "blade"],
         databases: ["MySql", "MongoDB", "PostgreeSQL"],
         cloud: ["AWS"]
