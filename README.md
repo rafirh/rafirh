@@ -18,6 +18,7 @@ const rafi = {
         backEnd: {
             js: ["Express, Adonis"],
             php: ["Laravel", "CodeIgniter 4"]
+            go: ["Go Fiber", "GORM"]
         },
         devOps: ["Docker, Nginx, Linux, Apache2"],
         viewEngine: ["EJS", "blade"],
